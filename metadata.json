@@ -1,0 +1,6 @@
+{
+  "name": "Operation Vanguard Zero",
+  "description": "Offline single-player 3D tactical military shooter with a 10-mission campaign across 5 environments, intelligent squad AI, resource management, and interactive tactical mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
